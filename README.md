@@ -1,3 +1,5 @@
+> 此仓库已废弃，后续更新将在原仓库直接更新
+
 # FreeBSD 从入门到跑路
 
 [目录](https://github.com/FreeBSD-Ask/FreeBSD-Ask/blob/main/SUMMARY.md)
